@@ -1,0 +1,31 @@
+symbol,name,price,change,%change,low,high,previous_close 
+AXP,American Express Co,175.15,+0.86,+0.49,173.53,176.98,175.15
+AMGN,Amgen Inc,208.95,-0.17,-0.08,207.65,210.18,208.95
+AAPL,Apple Inc,142.9,-0.39,-0.27,142.56,144.18,142.9
+BA,Boeing Co,226.39,-0.09,-0.04,225.4,228.71,226.39
+CAT,Caterpillar Inc,195.16,-0.59,-0.3,194.74,196.58,195.16
+CSCO,Cisco Systems Inc,55.08,+0.06,+0.11,54.75,55.3,55.08
+CVX,Chevron Corp,108.05,+2.37,+2.24,106.6,108.43,108.05
+GS,Goldman Sachs Group Inc,392.81,+2.19,+0.56,388.18,394.31,392.81
+HD,Home Depot Inc,334.34,-3.14,-0.93,330.88,335.4,334.34
+HON,Honeywell International Inc,217.7,-0.67,-0.31,216.74,219.55,217.7
+IBM,International Business Machines Corp,143.22,+1.41,+0.99,141.05,143.65,143.22
+INTC,Intel Corp,53.81,-0.37,-0.68,53.7,54.58,53.81
+JNJ,Johnson & Johnson,160.93,-0.41,-0.25,160.25,161.61,160.93
+KO,Coca-Cola Co,54.12,+0.24,+0.45,53.9,54.39,54.12
+JPM,JPMorgan Chase & Co,170.22,+0.13,+0.08,169.29,171.34,170.22
+MCD,McDonald’s Corp,247.7,-0.62,-0.25,247.11,249.63,247.7
+MMM,3M Co,176.95,-0.85,-0.48,176.78,178.1,176.95
+MRK,Merck & Co Inc,80.63,-1.31,-1.6,80.53,81.8,80.63
+MSFT,Microsoft Corp,294.85,UNCH,UNCH,293.76,296.64,294.85
+NKE,Nike Inc,152.48,+0.63,+0.41,150.67,152.87,152.48
+PG,Procter & Gamble Co,141.73,-0.59,-0.41,141.04,142.62,141.73
+TRV,Travelers Companies Inc,157.33,+0.09,+0.06,156.37,158.45,157.33
+UNH,UnitedHealth Group Inc,408.46,+3.76,+0.93,402.64,409.12,408.46
+CRM,Salesforce.Com Inc,272.48,-2.1,-0.76,272.27,276.92,272.48
+VZ,Verizon Communications Inc,53.24,-0.66,-1.22,53.22,53.97,53.24
+V,Visa Inc,230.27,-0.28,-0.12,230.18,232.73,230.27
+WBA,Walgreens Boots Alliance Inc,47.38,-0.47,-0.98,47.24,47.91,47.38
+WMT,Walmart Inc,139.66,+0.42,+0.3,139.01,140.09,139.66
+DIS,Walt Disney Co,176.74,-0.97,-0.55,176.4,178.6,176.74
+DOW,Dow Inc,58.71,UNCH,UNCH,58.4,59.29,58.71
